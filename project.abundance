@@ -23,8 +23,7 @@
     },
     {
       "name": "Pressure_Angle",
-      "ioValue": 20,
-      "currentEquation": "20"
+      "ioValue": 20
     }
   ],
   "topLevel": true,
@@ -61,8 +60,7 @@
         },
         {
           "name": "thickness",
-          "ioValue": 5,
-          "currentEquation": "5"
+          "ioValue": 5
         },
         {
           "name": "pressureAngle",
@@ -83,28 +81,28 @@
     {
       "atomType": "Input",
       "x": 0.025384615384615384,
-      "y": 0.32869080779944293,
+      "y": 0.24615384615384617,
       "uniqueID": "id-729",
       "name": "Number_Of_Teeth"
     },
     {
       "atomType": "Input",
       "x": 0.025384615384615384,
-      "y": 0.5041782729805014,
+      "y": 0.3384615384615385,
       "uniqueID": "id-732",
       "name": "Ring_Width"
     },
     {
       "atomType": "Input",
       "x": 0.025384615384615384,
-      "y": 0.766016713091922,
+      "y": 0.4307692307692308,
       "uniqueID": "id-735",
       "name": "Thickness"
     },
     {
       "atomType": "Input",
       "x": 0.025384615384615384,
-      "y": 0.8997214484679666,
+      "y": 0.5230769230769231,
       "uniqueID": "id-738",
       "name": "Pressure_Angle"
     }
